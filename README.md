@@ -1,6 +1,6 @@
 # AI in a Shell - Interactive AI Tutorials
 
-Welcome to the central repository for **AI in a Shell**, your go-to platform for hands-on AI tutorials! Explore cutting-edge AI tools and techniques through practical examples and projects. This repository serves as a directory for all tutorials available on [ai-in-a-shell.com](https://ai-in-a-shell.com).
+Welcome to the central repository for **ai-in-a-shell**, your go-to platform for hands-on AI tutorials! Explore cutting-edge AI tools and techniques through practical examples and projects. This repository serves as a directory for all tutorials available on [ai-in-a-shell.com](https://ai-in-a-shell.com).
 
 ---
 
